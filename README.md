@@ -1,4 +1,5 @@
 # Face-Recognition-using-Siamese-network
+One-Shot Learning network to identify a face.
 ## OVERVIEW
 Siamese networks are a special type of neural network architecture. Instead of a model learning to classify its inputs, the neural networks learns to differentiate between two inputs. It learns the similarity between them.
 ## ARCHITECTURE
